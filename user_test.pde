@@ -1,3 +1,34 @@
+Videio references:
+Ghetto	
+https://www.youtube.com/watch?v=8nGYkEBDjX8
+
+Tree falling
+https://www.youtube.com/watch?v=Ec1uy4AR5qc
+
+Market eindhoven
+https://www.youtube.com/watch?v=VVh33VgZOqM
+
+hiking
+https://www.youtube.com/watch?v=wqvcHV5_bT0
+
+litter
+https://www.youtube.com/watch?v=EMPxr0X6cX8
+
+Amstel 3
+https://www.youtube.com/watch?v=zeGzgZXLfkM&t=73s
+
+newyork
+https://www.youtube.com/watch?v=zZlMxHQCApw&t=655s
+
+crash
+https://www.youtube.com/watch?v=57GwullsBv0
+
+No crash
+https://www.youtube.com/watch?v=CoN37VCZ9Jc
+
+
+
+
 import processing.video.*;
 Movie movie1;
 Movie movie2;
