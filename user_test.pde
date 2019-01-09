@@ -1,4 +1,4 @@
-Videio references:
+Video references:
 Ghetto	
 https://www.youtube.com/watch?v=8nGYkEBDjX8
 
