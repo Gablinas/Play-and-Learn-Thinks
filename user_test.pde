@@ -1,3 +1,6 @@
+Image references:
+https://www.thedoodlelibrary.com/
+
 Video references:
 Ghetto	
 https://www.youtube.com/watch?v=8nGYkEBDjX8
